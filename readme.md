@@ -1,19 +1,32 @@
 # Portfolio
 
-Eventually, this page will highlight many of the projects I have worked on. Right now, I am just getting the page up and running.
+Welcome to Weston Grewe's portfolio of projects. These projects range from very applied data science (such as analyzing bike lanes in Denver) to pure mathematics. Please check out any of the projects below.
 
 ## About Me
-Hi, I'm Weston! I am a PhD student in Operations Research at the University of Colorado Denver with an expected graduation data of May 2024. 
+Hi, I'm Weston! I am a PhD student in Operations Research at the University of Colorado Denver with an expected graduation data of May 2024. This summer (2022) I will be a data science intern for Transamerica. 
+
+My primary research areas are linear programming and combinatorial optimization. In particular, I am very interested in diameters of polyhedra and circuit augmentation algorithms. Prior to my program at CU Denver, I completed a BS and MS in pure mathematics at Cal Poly San Luis Obispo. I wrote a senior project where I studied functional analysis and the invariant subspace problem for compact operators. For my master's thesis I homogenized a cardiac tissue model to analyze large scale behavior of the tissue.
+
 Following graduation I hope to break into the data science industry.  
 
 ## Here are some quick links to my repositories
 ### Check back soon for actual links
+- Biking in Denver
+- Paper on ArXiv
 - Spatial Statistics
 - Circuit Walks
 - Integer Programming
 - Linear Programming
 - Spam Filter
 - Project Euler
+- Senior Project
+- Master's Thesis
+
+## Biking in Denver
+In the spring of 2022 I participated in the Data to Policy Symposium hosted by the Auraria Library. My peer [Angela Morrison](http://math.ucdenver.edu/~sborgwardt/wiki/index.php/Angela_Morrison) and I analyzed the feasibility of commuting in Denver. We used a generic shortest path algorithm and a cost-constrained shortest path algorithm to understand the burden that riders face when commuting in the city. We are pleased to report that our project won Best in Data. For a full description of our work please visit our [project page.](http://math.ucdenver.edu/~sborgwardt/wiki/index.php/A_Wheelie_Good_Time:_Safe_Biking_in_Denver) For data cleaning and analysis please see our [GitHub Repository.](https://github.com/DillWithIt77/D2P_Spring_2022) 
+
+## Diameters of Connections of Polyhedra
+
 
 ## Childhood Obesity in the City of Denver
 
