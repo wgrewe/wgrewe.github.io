@@ -32,6 +32,8 @@ As part of my PhD thesis, I have been researching diameters of polyhedra. Polyhe
 
 ## Childhood Obesity in the City of Denver
 
+In the fall of 2021 I submitted two projects to the data to policy symposium. This project is associated with CU Denver's Spatial Data Analysis course. Using data from Denver's Open Data Catalog, I analyzed the distribution of childhood obesity throughout the city to discover if there were any clusters. After performing 6 seperate statistical tests, I discovered there was evidence of clustering. In particular, central north Denver, southwest Denver, and Montbello all exhibited evidence of clustering of childhood obesity cases. My work can be found in [this github repository.](https://github.com/wgrewe/Childhood-Obesity) A slide deck of the results can be found [here.](https://digital.auraria.edu/work/ns/ae3a1cef-3823-44ab-8e54-8a198e58b9a6) 
+
 
 ## Which Neighborhoods in Denver are Experiencing Gentrification?
 
