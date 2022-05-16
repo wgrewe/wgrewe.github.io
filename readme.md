@@ -48,3 +48,7 @@ In the fall of 2021 I submitted two projects to the data to policy symposium. Th
 
 
 ## Project Euler
+
+## Senior Project: Invariant Subspace Problem
+
+In the good old days when I was a pure math undergrad, I studied functional analysis for my senior project. I studied the first 5 chapters of [MacCleur's book](https://link.springer.com/book/10.1007/978-0-387-85529-5#toc) and worked on a proof of the invariant subspace problem for compact operators. An invariant subspace is a generalization of an eigenvector and has far-reaching implications throughout functional analysis and the theory of linear operators. Compact operators are some of the nicest operators on an infinite dimensional vector space while still maintaining interesting properties. Particularly, many results that hold for square matrices hold for compact operators, thus, intuition about how these operators work transfer nicely. This is often not the case in infinite dimensional space. My work for this project can be found [here.](https://digitalcommons.calpoly.edu/mathsp/7/) 
