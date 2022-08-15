@@ -7,10 +7,13 @@ Hi, I'm Weston! I am a PhD student in Operations Research at the University of C
 
 My primary research areas are linear programming and combinatorial optimization. In particular, I am very interested in diameters of polyhedra and circuit augmentation algorithms. Prior to my program at CU Denver, I completed a BS and MS in pure mathematics at Cal Poly San Luis Obispo. I wrote a senior project where I studied functional analysis and the invariant subspace problem for compact operators. For my master's thesis I homogenized a cardiac tissue model to analyze large scale behavior of the tissue.
 
+Aside from research, I have worked as a data science intern at Transamerica (Summer 2022). This was a fascinating experience that introduced me to working with some very large datasets and various data science topics such as entity resolution, encoders/decoders, and positive-unlabeled learning.
+
 Following graduation I hope to break into the data science industry.  
 
 ## Here are some quick links to my repositories
 ### Check back soon for actual links
+- Internship at TA
 - Biking in Denver (done)
 - Paper on ArXiv (done)
 - Spatial Statistics
@@ -22,7 +25,7 @@ Following graduation I hope to break into the data science industry.
 - Senior Project
 - Master's Thesis
 
-## Biking in Denver
+## Safe Biking in Denver
 
 In the spring of 2022 I participated in the Data to Policy Symposium hosted by the Auraria Library. My peer [Angela Morrison](http://math.ucdenver.edu/~sborgwardt/wiki/index.php/Angela_Morrison) and I analyzed the feasibility of commuting in Denver. We used a generic shortest path algorithm and a cost-constrained shortest path algorithm to understand the burden that riders face when commuting in the city. We are pleased to report that our project won Best in Data. For a full description of our work please visit our [project page.](http://math.ucdenver.edu/~sborgwardt/wiki/index.php/A_Wheelie_Good_Time:_Safe_Biking_in_Denver) For data cleaning and analysis please see our [GitHub Repository.](https://github.com/DillWithIt77/D2P_Spring_2022) 
 
@@ -37,6 +40,11 @@ In the fall of 2021 I submitted two projects to the data to policy symposium. Th
 
 ## Which Neighborhoods in Denver are Experiencing Gentrification?
 
+It is no secret that Denver has experienced incredible gentrification over the last decade. As one of the fastest growing cities since 2010, housing supply has been ravaged. I will always credit Denver for allowing homebuilding to be a comparatively easy process. Regardless, when any city is growing as fast Denver has, keeping up with housing demand will be near impossible. 
+
+This project arose as a unique (although, ultimately unsuccessful) way to understand gentrification. In particular, it may be useful as a prediction engine for determining where gentrification will occur next. A predication engine for gentrification is vital, often neighborhoods impacted by gentrification are unnoticed until it is too late. Our project considers 3 different time points in Denver and clusters (using k-means) neighborhoods into 3 categories: marginalized, neutral, and privileged. To do so we consider income, education, and..
+
+Now, we dive into the mathematics. Once we clustered, we considered sign-compatible circuit walks between clustered. This circuits walks provide a ``transition'' between clusters. They yield a sequence of clusters that begin at one cluster and each intermediary cluster differs by just interchanging the labels of at most 2 neighborhoods. Hence, we have recovered how one cluster turned into another several years down the road.
 
 ## An Optimal Decision Tree Model for College Enrollment
 
@@ -48,6 +56,10 @@ In the fall of 2021 I submitted two projects to the data to policy symposium. Th
 
 
 ## Project Euler
+
+
+## Master's Thesis:
+
 
 ## Senior Project: Invariant Subspace Problem
 
