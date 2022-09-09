@@ -3,7 +3,7 @@
 Welcome to Weston Grewe's portfolio of projects. These projects range from very applied data science (such as analyzing bike lanes in Denver) to pure mathematics. Please check out any of the projects below.
 
 ## About Me
-Hi, I'm Weston! I am a PhD student in Operations Research at the University of Colorado Denver with an expected graduation data of May 2024. This summer (2022) I will be a data science intern for Transamerica. 
+Hi, I'm Weston! I am a PhD student in Operations Research at the University of Colorado Denver with an expected graduation data of Dec 2023.
 
 My primary research areas are linear programming and combinatorial optimization. In particular, I am very interested in diameters of polyhedra and circuit augmentation algorithms. Prior to my program at CU Denver, I completed a BS and MS in pure mathematics at Cal Poly San Luis Obispo. I wrote a senior project where I studied functional analysis and the invariant subspace problem for compact operators. For my master's thesis I homogenized a cardiac tissue model to analyze large scale behavior of the tissue.
 
@@ -24,6 +24,12 @@ Following graduation I hope to break into the data science industry.
 - Project Euler
 - Senior Project
 - Master's Thesis
+
+## Data Science Internship at Transamerica
+
+During this internship I worked on 3 projects. The first project was a network optimization problem. The COO wanted to develop a program to connect employees in operations to one another to boost networking and the sharing of ideas. The goal was to pair employees that are on different hierarchy levels and are separated in the company, i.e. pairing employees who do not have the same manager or whose manager's have the same manager. To accomplish this, we transformed the data into a graph and solved a maximum cardinality maximum weight matching problem on the graph.
+
+
 
 ## Safe Biking in Denver
 
@@ -55,10 +61,13 @@ Now, we dive into the mathematics. Once we clustered, we considered sign-compati
 ## A Basic Email Spam Filter 
 
 
+## Master's Thesis: Homogenization of a Cardiac Tissue Model
+
+
+
 ## Project Euler
 
-
-## Master's Thesis:
+I spent a whole summmer working on [Project Euler](https://projecteuler.net/) problems as a tool to hone my programming skills. Project Euler provides a nice blend of pure math questions with algorithms. Most of the questions cannot be answered by a brute force search, they require clever combinatorial techniques. Solutions to most of the first 100 can be found [here.](https://github.com/wgrewe/Project-Euler) While I have solved several of those past 100, Project Euler does not allow those solutions to be posted on the internet.
 
 
 ## Senior Project: Invariant Subspace Problem
