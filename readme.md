@@ -54,6 +54,7 @@ Now, we dive into the mathematics. Once we clustered, we considered sign-compati
 
 ## An Optimal Decision Tree Model for College Enrollment
 
+For CU Denver's Data to Policy Symposium in spring of 2021, we investigated which factors led to a high college enrollment. We used data from Massachusetts Public Schools and used an optimal decision tree model. The decision tree model was described in [this article](https://optimization-online.org/2018/01/6404/). The decision tree can be computed by solving an integer linear program. We programmed this model in AMPL and designed it to read data from an Excel table. 
 
 ## A Mathematical Approach to Prevent Gerrymandering
 
