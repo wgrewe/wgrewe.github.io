@@ -7,7 +7,7 @@ Hi, I'm Weston! I am a Ph.D. candidate studying Operations Research at the Unive
 
 For the last three years, I have been funded through a grant my advisor holds. Primarily, I research linear programming and combinatorial optimization. In particular, I am interested in polyhedral geometry, especially combinatorial diameters and circuit diameters. Combinatorial diameters provide lower bounds on the worst-case performance of the Simplex Method. Circuits generalize edges of a polyhedron, circuit augmentation schemes generalize the Simplex method. In a circuit augmentation scheme, an algorithm follows circuit directions. This is a trade off: there are more directions to choose from, so a run of the algorithm may need fewer iterations, but each direction is harder to compute. I study circuit diameters, which give a lower bound on the number of iterations a run of a circuit augmentation scheme may need.
 
-Prior to my program at CU Denver, I completed a BS and MS in pure mathematics at Cal Poly, San Luis Obispo. I wrote a senior project where I studied functional analysis and the invariant subspace problem for compact operators. For my master's thesis I homogenized a cardiac tissue model to analyze large scale behavior of the tissue.
+Prior to my program at CU Denver, I completed a B.S. and M.S. in pure mathematics at Cal Poly, San Luis Obispo. I wrote a senior project where I studied functional analysis and the invariant subspace problem for compact operators. For my master's thesis I homogenized a cardiac tissue model to analyze large scale behavior of the tissue.
 
 Aside from research, I have worked as a data science intern at Transamerica (Summer 2022/2023). This was a fascinating experience that introduced me to working with some very large datasets and various data science topics such as entity resolution, encoders/decoders, transfer learning and positive-unlabeled learning.
 
@@ -48,6 +48,10 @@ Many graph reconfiguration problems can be interpreted as circuit problems, espe
 This work is currently in progress and will be uploaded to the ArXiv in the near future.
 
 ## 2-Sums of Polyhedra
+
+This is a continuation of my work on combinatorial diameters of polyhedra. The 2-sum operation is fundamental in the construction of totally unimodular polyhedra, the easiest polyhedra for integer programming. The 2-sum can be interpreted as the linking of two systems in a joint model with a single constraint. Thus, a deep understanding of how the 2-sum affects the geometry of the polyhedron allows for the problem to be broken into two (hopefully easier) subproblems. We show that the diameter of the 2-sum polyhedra is at most quadratic in the diameters of its parts. In a sense, the linking of two simple systems through the 2-sum does not create a highly complex system.
+
+Our work is currently submitted for publication. For much more detail and a more rigorous explanation, please see our article on the [ArXiv](https://arxiv.org/abs/2311.02047).
 
 ## Safe Biking in Denver
 
