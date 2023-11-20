@@ -13,20 +13,6 @@ Aside from research, I have worked as a data science intern at Transamerica (Sum
 
 Following graduation I hope to break into the data science industry.  
 
-## Here are some quick links to my repositories
-### Check back soon for actual links
-- Internship at TA
-- Biking in Denver (done)
-- Paper on ArXiv (done)
-- Spatial Statistics
-- Circuit Walks
-- Integer Programming
-- Linear Programming
-- Spam Filter
-- Project Euler
-- Senior Project
-- Master's Thesis
-
 ## Data Science Internship at Transamerica
 
 During this internship I worked on several projects spanning many facets of data science. 
@@ -51,7 +37,7 @@ This work is currently in progress and will be uploaded to the ArXiv in the near
 
 This is a continuation of my work on combinatorial diameters of polyhedra. The 2-sum operation is fundamental in the construction of totally unimodular polyhedra, the easiest polyhedra for integer programming. The 2-sum can be interpreted as the linking of two systems in a joint model with a single constraint. Thus, a deep understanding of how the 2-sum affects the geometry of the polyhedron allows for the problem to be broken into two (hopefully easier) subproblems. We show that the diameter of the 2-sum polyhedra is at most quadratic in the diameters of its parts. In a sense, the linking of two simple systems through the 2-sum does not create a highly complex system.
 
-Our work is currently submitted for publication. For much more detail and a more rigorous explanation, please see our article on the [ArXiv](https://arxiv.org/abs/2311.02047).
+Our work is currently submitted for publication. For much more detail and a more rigorous explanation, please see our article on the [ArXiv.](https://arxiv.org/abs/2311.02047)
 
 ## Safe Biking in Denver
 
@@ -59,7 +45,7 @@ In the spring of 2022 I participated in the Data to Policy Symposium hosted by t
 
 ## Diameters of Connections of Polyhedra
 
-As part of my PhD thesis, I have been researching diameters of polyhedra. Polyhedral diameters provide a lower bound on the number of pivots the simplex method would take, independent of pivot rule. We proved diameter bounds for polyhedra whose constraint matrix is either a parallel connection or series connection of matrices. The parallel connection and series connection characterize behavior for an optimization problem that has a constraint or variable linking two independent processes. Our work is currently submitted for publication, a preprint is available on [Arxiv.](https://arxiv.org/abs/2203.09587)
+As part of my PhD thesis, I have been researching diameters of polyhedra. Polyhedral diameters provide a lower bound on the number of pivots the simplex method would take, independent of pivot rule. We proved diameter bounds for polyhedra whose constraint matrix is either a parallel connection or series connection of matrices. The parallel connection and series connection characterize behavior for an optimization problem that has a constraint or variable linking two independent processes. Our work has been accepted by the SIAM Journal on Discrete Mathematics, a preprint is available on [Arxiv.](https://arxiv.org/abs/2203.09587)
 
 ## Childhood Obesity in the City of Denver
 
@@ -80,11 +66,18 @@ For CU Denver's Data to Policy Symposium in spring of 2021, we investigated whic
 
 ## A Mathematical Approach to Prevent Gerrymandering
 
+The first of CU Denver's Data to Policy Symposium I took part in was Fall 2020. Working with my collaborator Angela Morrison, we studied a linear programming approach to prevent gerrymandering. We essentially implemented a balanced k-means clustering algorithm, where clusters are required to have the same (weighted) cardinality. Further, this led to an implementation of soft-power diagrams, a generalization of the well-known Voronoi diagrams. This algorithm, as a byproduct, creates convex regions, an ideal shape to prevent gerrymandering.
+
+We applied the technique to Denver's city council districts to understand how their current distribution compares against an "ideal." We found that Denver's city council is NOT gerrymandered. Although, we will admit, gerrymandering at this level is rare.
 
 
 ## Master's Thesis: Homogenization of a Cardiac Tissue Model
 
+For my master's thesis, I worked with my advisor Dr. Joyce Lin, at Cal Poly, studying cardiac tissue models.
 
+For a (differential equation) model the homogenization process splits the model into two simpler pieces: a mean-field equation and an oscillating microstructure. The domain is broken into small cells. The mean-field is assumed to be constant on each cell and the microstructure is periodic across cells. Our research started with a model for current on cardiac tissue. Because of the inherent complexity, even on a large machine, a run on even a fraction of a simulated heart can take several hours. Thus, homogenization is needed. The microstructure is quite literally a cell. The union of all cells creates the human heart.
+
+Our work involves a careful homogenization of the governing equation. Further, it also included implementing several well-known models.
 
 ## Project Euler
 
