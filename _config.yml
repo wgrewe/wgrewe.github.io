@@ -1,1 +1,8 @@
+title: Weston Grewe # your name (or website title) here
+logo: "/images/headshot.png" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Ph.D. Candidate at CU Denver
+  <br><br>
+  <a href="https://www.linkedin.com/in/wgrewe/">View My LinkedIn Profile</a> 
+
 theme: jekyll-theme-minimal
